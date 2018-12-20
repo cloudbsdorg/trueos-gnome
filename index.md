@@ -1,6 +1,6 @@
 ## Getting started
 
-[Download TrueOS Gnome 18.06](https://pkg.trueos.org/iso/gnome-stable/TrueOS-Gnome-Stable-x64-f12bb6bb0-20181218.iso)
+[Download TrueOS Gnome 18.12](https://pkg.trueos.org/iso/gnome-stable/TrueOS-Gnome-Stable-x64-f12bb6bb0-20181218.iso)
 
 ### Support
 

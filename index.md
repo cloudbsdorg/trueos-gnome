@@ -4,4 +4,4 @@
 
 ### Support
 
-Having trouble with TrueOS Gnome? Check out our [bug tracker](https://github.com/trueos/trueos-gnome/issues/)
+Having trouble with TrueOS Gnome? Check out our [bug tracker](https://github.com/trueos/trueos-gnome/issues/) or [documentation](https://github.com/trueos/trueos-gnome/wiki)
